@@ -67,16 +67,16 @@ header {
 
 header p {
     
+    font-family: var(--fonte-padrao);
+    font-size: 1.3em;
+    color: white;
+    max-width: 500px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.445);
     max-width: 500px;
     margin: auto;
-    margin-bottom: 20px;
     text-align: center;
-    font-family: var(--fonte-padrao);
-    color: white;
     padding-top: 15px;
-    padding-bottom: 10px;
-    font-size: 1.3em;
+    padding-bottom: 20px;
 
 }
 
